@@ -1,3 +1,3 @@
-Team members: A-USERNAME and B-USERNAME
+Team members: 26jhong and AmAnonymouPerson
 Favorite programming language: TBD
-Team motto: We love git
+Team motto: Commit early, commit often, and love every Git moment
